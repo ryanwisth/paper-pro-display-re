@@ -1,0 +1,4 @@
+numpy
+Pillow
+# panel-model/ only
+opencv-python-headless
