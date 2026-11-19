@@ -2,6 +2,8 @@
 
 Interoperability research that decodes how the reMarkable Paper Pro drives its colour e-ink panel (E Ink Gallery 3), well enough to draw on it with our own code instead of the vendor's rendering library.
 
+**Plain-words write-up:** [AI feedback, handwritten onto a paper tablet](https://ryanwisth.github.io/paper-grader.html)
+
 > **Unofficial research.** Not affiliated with, endorsed by or supported by reMarkable AS or E Ink Holdings. No vendor code, firmware or waveform data is distributed here; the tools read files you obtain yourself from reMarkable's public software update. Driving an e-ink panel with wrong waveforms or unbalanced drive can leave permanent ghosting or damage it. **The write path is at your own risk.** All device work was done on the author's own tablet in reMarkable's official developer mode.
 
 ## Why it exists
